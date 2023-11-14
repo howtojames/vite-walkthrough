@@ -2,7 +2,7 @@
 
 This template provides a minimal setup to get React working.
 
-## How to Clone:
+## How to Clone
 
 Open a terminal and cd into the directory where you want to create your React app.
 
