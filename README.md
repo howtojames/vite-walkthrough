@@ -1,8 +1,26 @@
-# React + Vite
+# James' React Vite Template
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get React working.
 
-Currently, two official plugins are available:
+## How to Clone:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Open a terminal and cd into the directory where you want to create your React app.
+
+To generate a new Vite project using their React template, run the following command:
+
+```plaintext
+npx tiged howtojames/my-react-vite-template#main <new-project-name>
+``````
+
+## How to Install
+
+Once the template is created, cd into the new project directoy. Then npm install and npm run dev.
+
+```plaintext
+cd <new-project-name>
+npm install
+npm run dev
+```
+
+## Changes
+Feel free to convert this project into your own. You can make changes in this README, the title in index.html, and the "name" in package.json.
